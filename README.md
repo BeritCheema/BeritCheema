@@ -1,5 +1,3 @@
-## 👋 About Me
-
 I'm a Software Engineering Intern at Amazon with a strong passion for building ai systems, full stack applications.
 ---
 
