@@ -1,6 +1,3 @@
-I'm a Software Engineering Intern at Amazon with a strong passion for building ai systems, full stack applications.
----
-
 ### 🚀 Currently Learning
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
