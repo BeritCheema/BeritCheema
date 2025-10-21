@@ -20,7 +20,7 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 ---
 
-### 🔧 Tools & Workflow
+#### Tools & Workflow
 - 🖥️ Neovim/Linux Poweruser
 - 🧱 Google Slides Architect
 - 🧩 Tmux Tactician
