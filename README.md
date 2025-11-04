@@ -20,11 +20,4 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 ---
 
-#### Tools & Workflow
-- 🖥️ Neovim/Linux Poweruser
-- 🧱 Google Slides Architect
-- 🧩 Tmux Tactician
-- 🧪 Google Colab Professional
-- 📊 Excel Engineer
-- 🐔 Cockfight Organizer
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
