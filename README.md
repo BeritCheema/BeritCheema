@@ -1,5 +1,5 @@
 # About Me
-prev @ <img src="assets/amzn_cropped.gif" width="20" style="vertical-align: middle;" />
+prev @ <img src="assets/amzn_cropped.gif" width="200" style="vertical-align: middle;" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
